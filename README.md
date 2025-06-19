@@ -93,8 +93,8 @@ We welcome PRs from developers passionate about online safety, NLP, browser exte
 ---
 
 ## 📫 Contact
-- Email: contact@cybershield.com
-- Twitter: [@CyberShieldAI](https://twitter.com/CyberShieldAI)
+- Email: cybershield41@gmail.com
+- Twitter: [@CyberShieldAI](https://x.com/cybershield41)
 
 ---
 
